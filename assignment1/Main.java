@@ -1,5 +1,6 @@
 // Name : Muhammet Ali                              // Number : 21993073
 // Surname : Şentürk                                // Assignment-1 (Encapsulation)
+// Grade:100
 
 //package assignment1;
 

@@ -1,6 +1,6 @@
 // Name : Muhammet Ali                              // Number : 21993073
 // Surname : Şentürk                                // Assignment-2 (Inheritance)
-
+// Grade:70
 
 import java.util.ArrayList;
 

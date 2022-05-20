@@ -1,5 +1,6 @@
 // Name : Muhammet Ali            // StudentID : b21993073
 // Surname : Şentürk              // Assignment4 (Stack, Priority Queue)
+// Grade:100
 
 import java.util.ArrayList;
 

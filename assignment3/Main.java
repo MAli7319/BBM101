@@ -1,5 +1,6 @@
 // Name : Muhammet Ali            // StudentID : b21993073
 // Surname : Şentürk              // Assignment3 (Polymorphism, Exceptions)
+// Grade:85
 
 import java.util.ArrayList;
 import java.util.List;
